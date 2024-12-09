@@ -2,4 +2,4 @@
 
 This repository contains the code of the data preprocessing steps and the evaluation approach.
 
-In addition, the resulting final datasets and the new mixed variants are saved in it.
+The final evaluation dataset versions and the new mixed variants can be found at this location: https://www.link.com/.
