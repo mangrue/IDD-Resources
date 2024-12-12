@@ -1,4 +1,4 @@
-# FakeNewsDetection-CrossModelsDatasets
+# InformationDisorderDetection-Resources
 
 SHARED DATA AND CODE of the  article "A Critical Reflection of BERT-based Information Disorder Detection Techniques: Performing a Cross-Data and Cross-Model Evaluation"
 _________________________________________________________________________________________________________________________________________________________________________
