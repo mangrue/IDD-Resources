@@ -1,7 +1,7 @@
 # InformationDisorderDetection-Resources
 
-SHARED DATA AND CODE of the  article "A Critical Reflection of BERT-based Information Disorder Detection Techniques: Performing a Cross-Data and Cross-Model Evaluation"
-_________________________________________________________________________________________________________________________________________________________________________
+Shared datasets and code of the  article "A Critical Reflection of BERT-based Information Disorder Detection Techniques: Performing a Cross-Data and Cross-Model Evaluation"
+______________________________________________________________________________________________________________________________________________________________________________
 
 1) This repository contains the created datasets and code of the data preprocessing steps and the evaluation workflow.
 
