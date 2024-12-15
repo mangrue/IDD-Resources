@@ -5,7 +5,7 @@ ________________________________________________________________________________
 
 1) This repository contains the created datasets and code of the data preprocessing steps and the evaluation workflow.
 
-2) The mixed European and EU dataset versions contain different portions of two or all of the three datasets presented below. Details regarding the distribution can be found in the article.
+2) The Mixed European News Articles (MENA) portfolio contains of mixed European and EU datasets with different portions of two or all of the three data sources presented below. Details regarding the distribution can be found in the article.
 
 For the EU disinformation articles, which originate from the project EUvsDisinfo (see https://euvsdisinfo.eu/), the soure files can be found via this link: https://huggingface.co/datasets/winterForestStump/fake-news-detector-euvsdisinfo.
 
